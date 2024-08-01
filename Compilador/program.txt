@@ -1,0 +1,28 @@
+program main{
+	int a,b,x,y,i,j;	
+	writeln("prueba semantica");
+	a = 5;
+	b =  a + 3;
+	x = b +5;
+	y = x + a;		
+	j = j * 5;
+	writeln("papitas"*2);
+	if ( ( a>b) and (a*5+(b+4)) ) 
+	{
+		i = a*5+(b+4);
+		writeln("caso true");
+		writeln(a);
+	}else
+	{
+		if(y<x)
+		{
+			i = x * (b * y);
+			writeln(x);
+			writeln("if anidado");
+		}else
+		{
+			writeln("ultimo caso");
+		}
+	}
+	writeln(i);	
+}
