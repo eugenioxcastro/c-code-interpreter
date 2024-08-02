@@ -18,8 +18,8 @@ First things first, let's get you set up:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/C-Language-Compiler-in-Python.git
-    cd C-Language-Compiler-in-Python/Compilador
+    git clone https://github.com/yourusername/c-code-interpreter.git
+    cd c-code-interpreter/Compilador
     ```
 
 ### Running the Interpreter
